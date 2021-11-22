@@ -4,6 +4,7 @@ Make it easy to send emails
 
 ## Installation
 
+Install from [pypi](https://pypi.org/project/gmail-emailer/):
 ```shell
 pip install gmail-emailer
 ```
