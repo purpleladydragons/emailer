@@ -2,6 +2,12 @@
 
 Make it easy to send emails
 
+## Installation
+
+```shell
+pip install gmail-emailer
+```
+
 ## Manual setup / configuration
 
 To use this library, you need to setup a gmail account to send the emails from. 
@@ -10,7 +16,7 @@ You can sign up normally, but then you also need to [allow non-secure apps to co
 ## Usage
 
 ```python3
-from emailer import Emailer
+from emailer.emailer import Emailer
 
 emailer = Emailer(to_emails=['an-email-address@whatever.com'],
                   from_email='your-account@gmail.com',
