@@ -1,6 +1,6 @@
 from distutils.core import setup
 
-setup(name='Gmail Emailer',
+setup(name='emailer',
       version='0.1',
       description='Handles boilerplate for sending emails from gmail account',
       license='MIT',
