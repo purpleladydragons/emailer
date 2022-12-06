@@ -1,6 +1,8 @@
-# emailer
+# emailer (No longer works as of May 30 2022)
 
 Make it easy to send emails
+
+Update: Unfortunately, google restricted access to account logins which makes this method of simple login impossible ([link](https://support.google.com/accounts/answer/6010255?hl=en&visit_id=637896899107643254-869975220&p=less-secure-apps&rd=1#zippy=%2Cuse-an-app-password))
 
 ## Installation
 
