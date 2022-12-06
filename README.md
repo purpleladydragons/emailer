@@ -1,8 +1,6 @@
-# emailer (No longer works as of May 30 2022)
+# emailer
 
 Make it easy to send emails
-
-Update: Unfortunately, google restricted access to account logins which makes this method of simple login impossible ([link](https://support.google.com/accounts/answer/6010255?hl=en&visit_id=637896899107643254-869975220&p=less-secure-apps&rd=1#zippy=%2Cuse-an-app-password))
 
 ## Installation
 
@@ -15,6 +13,8 @@ pip install gmail-emailer
 
 To use this library, you need to setup a gmail account to send the emails from. 
 You can sign up normally, but then you also need to [allow non-secure apps to connect to the account](https://support.google.com/accounts/answer/6010255?hl=en). 
+
+Update: As of May 2022, the process has changed. You should follow the instructions in this [stackoverflow answer](https://stackoverflow.com/a/73214197)
 
 ## Usage
 
